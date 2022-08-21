@@ -1,0 +1,46 @@
+1,Washington,George,1789,7.84,surveyor,planter,general
+2,Adams,John,1797,4,schoolteacher,lawyer,diplomat,vice president
+3,Jefferson,Thomas,1801,8,writer,inventor,lawyer,architect,governor,secretary of state,vice president
+4,Madison,James,1809,8,lawyer,political theorist,U.S. congressman,secretary of state
+5,Monroe,James,1817,8,soldier,lawyer,U.S. senator,governor
+6,Adams,John Quincy,1825,4,lawyer,diplomat,professor,U.S. senator,secretary of state
+7,Jackson,Andrew,1829,8,soldier,U.S. congressman,U.S. senator,governor
+8,Van Buren,Martin,1837,4,lawyer,U.S. senator,governor,vice president
+9,Harrison,William H.,1841,0.08,soldier,diplomat,U.S. congressman,U.S. senator
+10,Tyler,John,1841,3.92,lawyer,U.S. congressman,U.S. senator,vice president
+11,Polk,James K.,1845,4,lawyer,U.S. congressman,governor
+12,Taylor,Zachary,1849,1.35,soldier
+13,Fillmore,Millard,1850,2.65,lawyer,U.S. congressman,vice president
+14,Pierce,Franklin,1853,4,lawyer,soldier,U.S. congressman,U.S. senator
+15,Buchanan,James,1857,4,lawyer,U.S. congressman,U.S. senator,U.S. secretary of state
+16,Lincoln,Abraham,1861,4.11,postmaster,lawyer,U.S. congressman
+17,Johnson,Andrew,1865,3.89,tailor,U.S. congressman,governor,U.S. senator,vice president
+18,Grant,Ulysses S.,1869,8,general
+19,Hayes,Rutherford B.,1877,4,lawyer,soldier,U.S. congressman,governor
+20,Garfield,James A.,1881,0.54,schoolteacher,soldier,U.S. congressman
+21,Arthur,Chester A.,1881,3.46,schoolteacher,lawyer,tariff collector,vice president
+22,Cleveland,Grover,1885,4,sheriff,lawyer,mayor,governor
+23,Harrison,Benjamin,1889,4,lawyer,soldier,journalist,U.S. senator
+24,Cleveland,Grover,1893,4,sheriff,lawyer,mayor,governor
+25,McKinley,William,1897,4.53,soldier,lawyer,U.S. congressman,governor
+26,Roosevelt,Theodore,1905,7.47,rancher,soldier,governor,vice president
+27,Taft,William H.,1909,4,lawyer,judge,dean,U.S. secretary of war
+28,Wilson,Woodrow,1913,8,lawyer,professor,university president,governor
+29,Harding,Warren G.,1921,2.41,newspaper editor,U.S. senator
+30,Coolidge,Calvin,1923,5.59,lawyer,governor,vice president
+31,Hoover,Herbert,1929,4,engineer,U.S. secretary of commerce
+32,Roosevelt,Franklin,1933,12.11,lawyer,governor
+33,Truman,Harry S.,1945,7.78,farmer,soldier,haberdasher,judge,U.S. senator,vice president
+34,Eisenhower,Dwight D.,1953,8,SACEUR,U.S. Army chief of staff
+35,Kennedy,John F.,1961,2.84,journalist,U.S. congressman,U.S. senator
+36,Johnson,Lyndon B.,1963,5.16,schoolteacher,soldier,congressman,U.S. senator,vice president 
+37,Nixon,Richard,1969,5.55,lawyer,U.S. congressman,U.S. senator,vice president,
+38,Ford,Gerald,1974,2.45,lawyer,U.S. congressman,vice president
+39,Carter,Jimmy,1977,4,peanut farmer,governor
+40,Raegan,Ronald,1981,8,movie actor,corporate spokesman,governor
+41,Bush,George,1989,4,oil executive,U.S. congressman,U.S. ambassador,CIA director,vice president
+42,Clinton,Bill,1993,8,lawyer,governor
+43,Bush,George W.,2001,8,oil executive,sport team owner,governor
+44,Obama,Barack,2009,8,community organizer,civil rights lawyer,professor,state senator,U.S. senator
+45,Trump,Donald,2017,4,real estate developer,reality TV personality
+46,Biden,Joe,2021,0.2,lawyer,U.S. senator,vice president
